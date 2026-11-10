@@ -1,0 +1,6 @@
+{
+  "name": "Gramin Krishi Seva – Krishi Mitra (कृषी मित्र)",
+  "description": "Comprehensive smart agriculture assistant for Indian farmers with real-time weather, crop management, AI disease diagnosis, mandi market prices, government schemes, soil planning, farm journey ledger, and voice assistance in Marathi and English.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
